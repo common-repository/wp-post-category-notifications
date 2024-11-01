@@ -1,0 +1,122 @@
+# Copyright (C) 2016 WP Post Category Notifications
+# This file is distributed under the same license as the WP Post Category Notifications package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Post Category Notifications 0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-post-category-"
+"notifications\n"
+"POT-Creation-Date: 2016-12-30 00:15+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-12-30 00:20+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: wp-post-category-notifications.php:30 wp-post-category-notifications.php:66
+#: wp-post-category-notifications.php:78 wp-post-category-notifications.php:96
+#: wp-post-category-notifications.php:110
+#: wp-post-category-notifications.php:123
+#: wp-post-category-notifications_log.php:3
+#: wp-post-category-notifications_log_template.php:3
+#: wp-post-category-notifications_options.php:3
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: wp-post-category-notifications_class.php:150
+msgid "View all posts in %s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Post Category Notifications"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://jf-weser-ems.de/wp-post-category-notifications"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Sends category specific email notifications whenever a post is published."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Markus Alexander Lehmann"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://jf-weser-ems.de/ueber-uns/fachbereiche/oeffentlichkeitsarbeit"
+msgstr ""
+
+msgid "Letzte Benachrichtigung versandt fuer"
+msgstr "Last notification send for"
+
+msgid "Bitte geben Sie eine gueltige E-Mail Adresse an."
+msgstr "Please insert a valid email address"
+
+msgid "Kategorie"
+msgstr "Category"
+
+msgid "Kategorien"
+msgstr "Categorys"
+
+msgid "E-Mail"
+msgstr "email"
+
+msgid "Notizen"
+msgstr "Notes"
+
+msgid "Log On"
+msgstr "log on"
+
+msgid "Logging eingeschaltet."
+msgstr "logging enabled"
+
+msgid "Log Off"
+msgstr "log off"
+
+msgid "Logging ausgeschaltet"
+msgstr "logging disabled"
+
+msgid "Datum Uhrzeit"
+msgstr "Date "
+
+msgid "Bemerkung"
+msgstr "Notice"
+
+msgid "Benachrichtigung geloescht fuer"
+msgstr "Notification droped for"
+
+msgid "Benachrichtigung hinzugefuegt fuer"
+msgstr "Notification added for"
+
+msgid "Neuer Beitrag auf"
+msgstr "New post on"
+
+msgid "Titel"
+msgstr "Titel"
+
+msgid "Veroeffentlicht durch"
+msgstr "Published by"
+
+msgid "Veroeffentlicht am"
+msgstr "Date of publication"
+
+msgid "Inhalt"
+msgstr "Content"
+
+msgid "Dies ist eine automatisierte Benachrichtigung von"
+msgstr "This is an automated notification from"
+
+msgid ""
+"Falls Sie keine weiteren Benachrichtigungen erhalten möchten, wenden Sie "
+"sich bitte an einen Administrator"
+msgstr ""
+"If you do not wish to receive further notifications, please contact an "
+"administrator"
+
+msgid "gesendet an"
+msgstr "send to"
